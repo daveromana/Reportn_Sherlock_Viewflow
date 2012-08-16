@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="header">#58567D</color>
+ <color name="abs__item_focused">#ff6899ff</color>
+    <color name="dark_grey">#ff343434</color>
+    <color name="dark_grey_translucent">#b0343434</color>
+    <color name="melon_green">#ffc6e17e</color>
+    <color name="dark_melon_green">#ff94ae52</color>
+    <color name="light_grey">#ffdddddd</color>
+    <color name="extra_light_grey">#ffe0e0e0</color>
+    <color name="med_grey">#ff565654</color>
+    <color name="off_white">#ffe9e7d6</color>
+    <color name="secondary_text">#ffa9a9a9</color>
+    <color name="new_light_cream">#fff5f3ec</color>
+    <color name="feed_header_bg">#ff252525</color>
+    <color name="comment_row_bg">#0d564b3f</color>
+    <color name="dark_brown">#ff1e0f00</color>
+    <color name="med_brown">#ff564b40</color>
+    <color name="light_brown">#fff7f6f1</color>
+    <color name="light_cream">#fff7f6f1</color>
+    <color name="med_cream">#fff0eee4</color>
+    <color name="dark_cream">#ffe1dcc8</color>
+    <color name="dark_green">#ff96af4b</color>
+    <color name="med_green">#ffcbd7a5</color>
+    <color name="link_active">#ff006473</color>
+    <color name="link_highlight_bg">#ffe6963c</color>
+    <color name="follow_search_list_divider">#ffbbbbbb</color>
+    <color name="dashboard_divider_dark">#ff7b7a71</color>
+    <color name="dashboard_divider_light">#fffefefd</color>
+</resources>

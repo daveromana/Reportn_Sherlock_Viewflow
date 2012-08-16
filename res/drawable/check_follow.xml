@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <level-list
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:drawable="@drawable/button_follow_disabled" android:maxLevel="0" />
+            <item android:drawable="@drawable/button_unfollow_disabled" android:maxLevel="1" />
+        </level-list>
+    </item>
+    <item>
+        <level-list
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:drawable="@drawable/button_follow" android:maxLevel="0" />
+            <item android:drawable="@drawable/button_unfollow" android:maxLevel="1" />
+        </level-list>
+    </item>
+</selector>
